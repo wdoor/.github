@@ -20,9 +20,9 @@
 
 > Пользователь <---> Сервер <--->  "Зараженный" компьютер
 
-[SmartCollegeConnecter]: <https://github.com/stercoris/SmartCollegeConnecter>
-[CommandExecutor]: <https://github.com/stercoris/CommandExecutor>
+[SmartCollegeConnecter]: <https://github.com/stercoris/SmartCollege/tree/master/SmartCollegeConnecter>
+[CommandExecutor]: <https://github.com/stercoris/SmartCollege/tree/master/SmartCollege.Executor>
 [wrong-door-mobile]: <https://github.com/stercoris/wrong-door-mobile>
 [wrong-door-api]: <https://github.com/stercoris/wrong-door-api>
-[SmartCollegeRoom]: <>
+[SmartCollegeRoom]: <https://github.com/stercoris/SmartCollege/tree/master/SmartCollege.Room>
 
