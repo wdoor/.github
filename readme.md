@@ -3,10 +3,10 @@
 
 ### Модули:
 * [wrong-door-api] - Node.js GraphQL-API для хранения-обработки информации.
-* [wrong-door-mobile] (refactoring) - Kotlin Android App, где и происходит взаимодействие с пользователем.
+* [wrong-door-mobile] - Kotlin Android App, где и происходит взаимодействие с пользователем.
 * [SmartCollegeConnecter] - Клиент GraphQL-API для C#(Оказывается, что клиенты для GraphQL не так популярны на c#!!!).
 * [CommandExecutor] - Исполняющий команды сервер, подлючается к [SmartCollegeConnecter].
-* [SmartCollegeRoom] (refactoring) - Исполняющий команды сервер, который запускается на отдельном компьютере, предоставляя дополнительный функционал относительно [CommandExecutor], подлючается к [SmartCollegeConnecter].
+* [SmartCollegeRoom] - Исполняющий команды сервер, который запускается на отдельном компьютере, предоставляя дополнительный функционал относительно [CommandExecutor], подлючается к [SmartCollegeConnecter].
 
 ![image](https://user-images.githubusercontent.com/59175552/120936127-47efb880-c717-11eb-8ef9-06c211a70fbc.png)
 
