@@ -15,7 +15,7 @@
 
 [GraphQL Connecter]: <https://github.com/stercoris/SmartCollege/tree/master/SmartCollegeConnecter>
 [Main Execution Server]: <https://github.com/stercoris/SmartCollege/tree/master/SmartCollege.Executor>
-[Mobile WrongDoor App]: <https://github.com/stercoris/wrong-door-mobile>
+[Mobile WrongDoor App]: <https://github.com/stercoris/wrong-door-mobile-react>
 [WrongDoor GrapQL API]: <https://github.com/stercoris/wrong-door-api>
 [Secondary Execution Server]: <https://github.com/stercoris/SmartCollege/tree/master/SmartCollege.Room>
 
