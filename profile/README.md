@@ -13,7 +13,7 @@
 
 - [React Native Mobile App] - App connected to [GraphQL API] with registration ability
 
-![image](img/scheme.png)
+![image](https://raw.githubusercontent.com/wdoor/.github/master/profile/img/scheme.png)
 
 [graphql api]: https://github.com/wdoor/wrong-door-api
 [react native mobile app]: https://github.com/wdoor/wrong-door-mobile-react
